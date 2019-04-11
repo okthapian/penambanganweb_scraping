@@ -1,2 +1,6 @@
 # penambanganweb_scraping
-ini adalah tugas pertama penambangan dan pencarian web
+tugas penambangan dan pencarian web
+nama : Moh Iqbal Okthapian
+NIM  :160411100108
+
+
