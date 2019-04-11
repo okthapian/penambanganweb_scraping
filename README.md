@@ -1,6 +1,6 @@
 # penambanganweb_scraping
-tugas penambangan dan pencarian web
-nama : Moh Iqbal Okthapian
-NIM  :160411100108
+tugas penambangan dan pencarian web<br>
+nama : Moh Iqbal Okthapian<br>
+NIM  :160411100108<br>
 
 
